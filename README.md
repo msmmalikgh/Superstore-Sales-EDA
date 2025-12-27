@@ -12,8 +12,11 @@ data/Sample - Superstore
 
 ## 🔍 Key Insights
 -Home Office is the most profitable customer segment, leading in both sales and profit
+
 -Standard Class shipping shows the lowest profitability compared to other ship modes
+
 -West region consistently generates the highest profit
+
 -High discounts (>30%) are strongly associated with negative profit margins
 
 ## 📸 EDA Visualizations
