@@ -8,8 +8,7 @@ Analyze sales, profit, discounts, and shipping strategies to uncover key busines
 - Jupyter Notebook
 
 ## 📂 Dataset
-Sample Superstore Dataset
-
+data/Sample - Superstore
 
 ## 🔍 Key Insights
 - Standard Class dominates both sales and profit
@@ -18,8 +17,7 @@ Sample Superstore Dataset
 - West region is the most profitable
 
 ## 📸 EDA Visualizations
-![Profit by Category](EDA Screenshots/profit_by_category.png)
-![Discount vs Profit](EDA Screenshots/discount_vs_profit.png)
+(EDA Screenshots)
 
 ## ▶️ How to Run
 ```bash
