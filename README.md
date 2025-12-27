@@ -11,14 +11,13 @@ Analyze sales, profit, discounts, and shipping strategies to uncover key busines
 data/Sample - Superstore
 
 ## 🔍 Key Insights
-- Standard Class dominates both sales and profit
-- Office Supplies is the top-performing category
-- High discounts (>30%) often lead to losses
-- West region is the most profitable
+-Home Office is the most profitable customer segment, leading in both sales and profit
+-Standard Class shipping shows the lowest profitability compared to other ship modes
+-West region consistently generates the highest profit
+-High discounts (>30%) are strongly associated with negative profit margins
 
 ## 📸 EDA Visualizations
-(EDA Screenshots)
-
+EDA Screenshots
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
